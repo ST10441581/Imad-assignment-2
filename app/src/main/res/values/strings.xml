@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Imad assignment 2</string>
+    <string name="_5">5</string>
+    <string name="l">5</string>
+    <string name="o">5</string>
+    <string name="cleanliness">Cleanliness :</string>
+    <string name="happiness">Happiness :</string>
+    <string name="hunger">Hunger :</string>
+    <string name="todo">TODO</string>
+    <string name="play">Play</string>
+    <string name="clean">Clean</string>
+    <string name="feed">Feed</string>
+    <string name="let_s_start">Let\'s start</string>
+    <string name="pp">TODO</string>
+    <string name="welcome_to_your_tomagotchi_app">Welcome to your tomagotchi app!</string>
+</resources>
