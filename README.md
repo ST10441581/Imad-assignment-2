@@ -3,7 +3,7 @@ Tomagotchi app
  Tomagotchi app is a simple Android application that demonstrates basic functionality using Android Studio.
 
 GitHub Link
-
+https://github.com/ST10441581/Imad-assignment-2
 
 Youtube Link
 https://youtu.be/bJnIAdqndEw
